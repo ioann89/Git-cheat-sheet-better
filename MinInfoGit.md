@@ -9,7 +9,7 @@ git add . — добавляет все файлы
 git commit — Сохраняет изменения в коммит
 git commit -m 'commit message' — создает коммит с сообщением
 -------------------------------------------------------
-git branch —Работа с ветками в репозитории
+git branch — Работа с ветками в репозитории
 git branch — показывает список веток
 git branch branch-name — создает новую ветку branch-name
 git branch -D branch-name — удаляет ветку branch-name
